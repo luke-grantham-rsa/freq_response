@@ -30,3 +30,8 @@ Instructions for use:
 
 **For code editing: **
 The code is contained in Frequency_Response_Offset.py that can be edited for custom functionality. It can be built using pyinstaller.
+
+Created by:
+Joe Faulkner
+Bill Bock
+Luke Grantham 
