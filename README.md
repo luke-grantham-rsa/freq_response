@@ -2,7 +2,7 @@
 
 Intended use: Characterize a DUT across a range of frequencies with an automated sweep tool that can run natively on an FSW.
 
-Video demonstration: https://rohdeschwarz-my.sharepoint.com/:v:/r/personal/luke_grantham_rsa_rohde-schwarz_com/Documents/Customer%20Files/Frequency_Sweep/Frequency_Sweep_Tutorial.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iFdioY
+Video instructions and demonstration: https://rohdeschwarz-my.sharepoint.com/:v:/r/personal/luke_grantham_rsa_rohde-schwarz_com/Documents/Customer%20Files/Frequency_Sweep/Frequency_Sweep_Tutorial.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iFdioY
 
 
 Instructions for use:
