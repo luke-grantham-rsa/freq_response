@@ -32,6 +32,7 @@ Instructions for use:
 The code is contained in Frequency_Response_Offset.py that can be edited for custom functionality. It can be built using pyinstaller.
 
 Created by:
-Joe Faulkner
-Bill Bock
-Luke Grantham 
+Joe Faulkner: Joseph.Faulkner@rsa.rohde-schwarz.com, 
+Bill Bock: Bill.Bock@rsa.rohde-schwarz.comm, 
+Mark Lewis: Mark.Lewis@rsa.rohde-schwarz.com,
+Luke Grantham, Luke.Grantham@rsa.rohde-schwarz.com
