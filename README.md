@@ -36,3 +36,8 @@ Joe Faulkner: Joseph.Faulkner@rsa.rohde-schwarz.com,
 Bill Bock: Bill.Bock@rsa.rohde-schwarz.comm, 
 Mark Lewis: Mark.Lewis@rsa.rohde-schwarz.com,
 Luke Grantham, Luke.Grantham@rsa.rohde-schwarz.com
+
+
+-------------------------TO DO----------------------------------
+1. Add build flag for PC or on-instrument running
+2. Add build flag for frequency offset Yes or No
